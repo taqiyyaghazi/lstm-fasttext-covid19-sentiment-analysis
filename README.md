@@ -42,13 +42,15 @@ From the results of the training, the evaluation of the model in the last epoch 
 
 In addition, the model is also evaluated with test data that has never been seen at all and produces `Accuracy: 0.729` and `Loss: 0.549` with the following confusion matrix results.
 
+![Confusion Matrix](https://raw.githubusercontent.com/taqiyyaghazi/lstm-fasttext-covid19-sentiment-analysis/main/img/confusion_matrix.png)
+
 ### Accuracy Plot per Epoch
 
-![Accuracy Plot](https://raw.githubusercontent.com/taqiyyaghazi/cnn-face-mask-detection/main/img/accuracy.png)
+![Accuracy Plot](https://raw.githubusercontent.com/taqiyyaghazi/lstm-fasttext-covid19-sentiment-analysis/main/img/accuracy.png)
 
 ### Loss Plot per Epoch
 
-![Loss Plot](https://raw.githubusercontent.com/taqiyyaghazi/cnn-face-mask-detection/main/img/loss.png)
+![Loss Plot](https://raw.githubusercontent.com/taqiyyaghazi/lstm-fasttext-covid19-sentiment-analysis/main/img/loss.png)
 
 ## Acknowledgements
 
