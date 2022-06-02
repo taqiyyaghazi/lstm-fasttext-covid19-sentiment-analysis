@@ -4,6 +4,11 @@ Sentiment analysis was used to analyze tweets from netizens on the Twitter platf
 
 Face mask detection is used to detect the use of masks during the COVID-19 pandemic. This project is a personal experiment to implement the FastText algorithm as word embedding as well as the Long Short-Term Memory Neural Network algorithm to classify tweets about COVID-19 based on positive and negative sentiments.
 
+## Package Requirements
+- tensorflow 2.6.0
+- nltk 3.7
+- gensim 4.2.0
+
 ## About Dataset
 
 The face mask dataset used in this experiment can be downloaded [here](https://www.kaggle.com/datasets/datatattle/covid-19-nlp-text-classification).
