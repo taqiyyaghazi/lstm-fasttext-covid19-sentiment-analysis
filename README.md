@@ -11,7 +11,7 @@ Face mask detection is used to detect the use of masks during the COVID-19 pande
 
 ## About Dataset
 
-The face mask dataset used in this experiment can be downloaded [here](https://www.kaggle.com/datasets/datatattle/covid-19-nlp-text-classification).
+The COVID-19 tweet dataset used in this experiment can be downloaded [here](https://www.kaggle.com/datasets/datatattle/covid-19-nlp-text-classification).
 The following is a summary of the dataset.
 
 | Number of Classes | 5                                                             |
